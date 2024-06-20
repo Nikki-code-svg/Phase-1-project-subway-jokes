@@ -1,0 +1,149 @@
+body {
+   /*  Easier to display when I put the URL straight to body via CSS not on HTML page */
+   
+    background-image: url("https://images.unsplash.com/photo-1572414323397-e7918784a4b7?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+/* First div of the whole page */
+.pageCaption {
+  text-align: center;
+  color: #FF6500;
+  font-size: 70px;
+  margin: 20px;
+}
+/* displayed right after first Caption on page, outside of <div>  on submit form */
+#gifImg {
+  display: flex;
+  justify-content: center;
+}
+/* h2 of the submit form title */
+h2 {
+  font-size: 50px;
+  color: #FF6500;
+  text-align: center;
+  padding-top: 5px;
+}
+/* <h2> for submit form */
+#secondCap {
+  margin-top: 100px;
+  /* padding-top: 5px 5px; */
+
+}
+/* most outer div for the form for submit */
+#jokeSubmitMain{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  height: 80vh;
+}
+/* second div in form for submit; container for you submit form */
+#jokeSubmitDiv{
+  background-color: rgba(171, 103, 103, 0.4);
+  padding: 30px;
+  height: 400px;
+  width: 800px;
+  border-radius: 30px;
+  box-sizing: border-box;
+
+}
+/* ID of the submit form */
+#jokeForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* style on inputs for submit */
+#theSetUp{
+  object-fit: contain;
+  margin: 30px 20px;
+}
+#thePunchLine{
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+/* submit form input fields setup and punchline */
+.feedback-input {
+  text-align: center;
+  color: green;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #F7F9F2 ;
+  width: 50vw;
+  box-sizing: border-box;
+  font-size: 16px;
+ }
+ /* In submit form to put category */
+ #ratioButton{
+  font-size: 20px;
+ }
+/* submit form blue button */
+#button-blue {
+  text-align: center;
+  padding: 15px;
+  width: 50vw;
+  cursor: pointer;
+  background-color: blue;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 16px;
+  position: relative;
+  margin-top: 15px;
+  box-sizing: border-box;
+
+}
+/* This div also wraps the container */
+#outForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#jokeGen{
+  justify-content: center;
+
+}
+/* <h2> for container jokes */
+#thirdCap {
+  font-size: 55px;
+  margin-bottom: 250px ;
+}
+/* last div at the bottom where your jokes generator GET request */
+ #containerJokes { 
+   background-color: rgba(171, 103, 103, 0.4);
+   padding: 30px;
+   width: 60vw;
+   height: 70vh;
+   margin-top: 35px;
+   margin-bottom: 300px;
+   border-radius: 30px;
+   box-sizing: border-box;
+   color:white;
+   font-size: 50px;
+  }
+  /* drop down bar style */
+  #select {
+    width: 25vw;
+    font-size: 35px;
+    font-style: Helvetica;
+     
+  }
+  /* Dropdown button next to dropdown field */
+ #dropBtn {
+    margin-left: 25px;
+    margin-bottom: 20px;
+    background-color: #059212;
+    padding:30px;
+    border-radius: 50%;
+    cursor: pointer;
+ }
+ /* what the drop down button does when you hover over it. which is change the color to red. */
+ #dropBtn:hover, .dropbtn:focus {
+    background-color: #EE4E4E;
+}
+  

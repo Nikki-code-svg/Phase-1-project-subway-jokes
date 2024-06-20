@@ -1,0 +1,202 @@
+{
+  "subwayJokes": [
+    {
+      "type": "general",
+      "setup": "Why was the pickle famous?",
+      "punchline": "They were kinda a big dill.",
+      "id": "1"
+    },
+    {
+      "type": "general",
+      "setup": "What do you call a cow on a trampoline?",
+      "punchline": "A milk shake!",
+      "id": "2"
+    },
+    {
+      "type": "general",
+      "setup": "Why did the melons plan a big wedding?",
+      "punchline": "Because they cantaloupe!",
+      "id": "3"
+    },
+    {
+      "type": "general",
+      "setup": "Why did the opera singer go sailing?",
+      "punchline": "They wanted to hit the high Cs.",
+      "id": "4"
+    },
+    {
+      "type": "general",
+      "setup": "Why can't a bicycle stand on its own?",
+      "punchline": "It's two-tired.",
+      "id": "5"
+    },
+    {
+      "type": "general",
+      "setup": "Did you hear about the cheese factory that exploded in France?",
+      "punchline": "There was nothing left but de Brie.",
+      "id": "6"
+    },
+    {
+      "type": "general",
+      "setup": "Why does Waldo only wear stripes?",
+      "punchline": "Because he doesn't want to be spotted.",
+      "id": "7"
+    },
+    {
+      "type": "general",
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta.",
+      "id": "8"
+    },
+    {
+      "type": "programming",
+      "setup": "A DHCP packet walks into a bar and asks for a beer.",
+      "punchline": "Bartender says, \"here, but I’ll need that back in an hour!\"",
+      "id": "1"
+    },
+    {
+      "type": "programming",
+      "setup": "['hip', 'hip']",
+      "punchline": "(hip hip array)",
+      "id": "2"
+    },
+    {
+      "type": "programming",
+      "setup": "Where do programmers like to hangout?",
+      "punchline": "The Foo Bar.",
+      "id": "3"
+    },
+    {
+      "type": "programming",
+      "setup": "Why did the two Java methods get a divorce?",
+      "punchline": "Because they had constant arguments",
+      "id": "4"
+    },
+    {
+      "type": "programming",
+      "setup": "Why do most Java programmers wear glasses?",
+      "punchline": "Because they don't see sharp.",
+      "id": "5"
+    },
+    {
+      "type": "programming",
+      "setup": "Why did the software engineer quit thier job?",
+      "punchline": "Because they didn't get arrays.",
+      "id": "6"
+    },
+    {
+      "type": "programming",
+      "setup": "What do cats and programmers have in common?",
+      "punchline": "When either one is unusually happy and excited it's because they found a bug.",
+      "id": "7"
+    },
+    {
+      "type": "programming",
+      "setup": "Debugging is like being the detective in a crime movie.",
+      "punchline": "Where you are also the murderer!",
+      "id": "8"
+    },
+    {
+      "type": "train",
+      "setup": "What do you call a train that's feeling sick?",
+      "punchline": "Achoo-choo train!",
+      "id": "1"
+    },
+    {
+      "type": "train",
+      "setup": "What is the train's favorite game?",
+      "punchline": "Track and field!",
+      "id": "2"
+    },
+    {
+      "type": "train",
+      "setup": "Why are the trains always on time?",
+      "punchline": "They have a lot of drive.",
+      "id": "3"
+    },
+    {
+      "type": "train",
+      "setup": "Why did the train break up with its girlfriend?",
+      "punchline": "It lost its steam.",
+      "id": "4"
+    },
+    {
+      "type": "train",
+      "setup": "Why do trains make terrible comedians?",
+      "punchline": "Thier jokes derail too often.",
+      "id": "5"
+    },
+    {
+      "type": "train",
+      "setup": "Why did the train go to school?",
+      "punchline": "To get a little engine-ucation.",
+      "id": "6"
+    },
+    {
+      "type": "train",
+      "setup": "Why did the train go to therapy?",
+      "punchline": "It had too much freight.",
+      "id": "7"
+    },
+    {
+      "type": "train",
+      "setup": "The train didn't laugh at my joke?",
+      "punchline": "Maybe it was too rail-vant.",
+      "id": "8"
+    },
+    {
+      "type": "science",
+      "setup": "How do you organize an outer space party?",
+      "punchline": "You planet",
+      "id": "1"
+    },
+    {
+      "type": "science",
+      "setup": "How does the man on the moon cut his hair?",
+      "punchline": "Eclipse it!",
+      "id": "2"
+    },
+    {
+      "type": "science",
+      "setup": "How do you cut the sea in half?",
+      "punchline": "With a sea-saw.",
+      "id": "3"
+    },
+    {
+      "type": "science",
+      "setup": "Why did scientist take out her doorbell?",
+      "punchline": "she wanted to win the no-bell prize.",
+      "id": "4"
+    },
+    {
+      "type": "science",
+      "setup": "Why didn't the skeleton go to the ball?",
+      "punchline": "Because he had no body to go with.",
+      "id": "5"
+    },
+    {
+      "type": "science",
+      "setup": "How many tickles does it take to tickle an octopus?",
+      "punchline": "Ten-tickles!",
+      "id": "6"
+    },
+    {
+      "type": "science",
+      "setup": "What do you call an acid with an attitude?",
+      "punchline": "A-mean-oh-acid.",
+      "id": "7"
+    },
+    {
+      "type": "science",
+      "setup": "I lost an electron!",
+      "punchline": "Are you postive?",
+      "id": "8"
+    },
+    {
+      "id": "3f9b",
+      "type": "general",
+      "setup": "Why did the chicken cross the road?",
+      "punchline": "To get to the other side."
+    }
+  ]
+}
